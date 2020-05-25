@@ -4,6 +4,7 @@ use bogota_licores;
  create table usuario 
  (
  id_usuario varchar(15) not null,
+ fecha_nacimiento date,
  nombre varchar(25) not null,
  apellido varchar(25) not null,
  email varchar(40) unique,
