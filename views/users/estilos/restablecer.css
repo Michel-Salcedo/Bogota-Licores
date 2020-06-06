@@ -1,0 +1,36 @@
+*{
+	margin: 0;
+	padding: 0;
+
+}
+.bv{
+	font-size: 50px;
+}
+
+
+.fecha{
+	width: 200px;
+	height: 30px;
+	text-align: center;
+	font-size: 20px;
+	border-radius: 15px;
+	border: 2px solid black;
+}
+.boton{
+	width: 150px;
+	height:40px;
+	border-radius: 20px;
+	background: white;
+	border: 2px solid black;
+}
+h5{
+	font-size: 15px;
+	font-weight: 500;
+}
+.em{
+	width:280px;
+	border: 2px solid black;
+	height: 30px;
+	border-radius: 5px;		
+	text-align: center;
+}

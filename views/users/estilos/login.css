@@ -1,0 +1,33 @@
+section{
+	float: right;
+}
+div{
+	float: right;
+}
+.email{
+	border: 2px solid black;
+	height: 20px;
+	width: 300px;
+}
+.pass{
+	border: 2px solid black;
+	height: 20px;
+	width: 300px;
+}
+.boton{
+	border: 1px solid black;
+	height: 30px;
+	width: 140px;
+	border-radius: 20px;
+	background: white;
+	margin: -8px 100px 0px 0px;
+	float: right;	
+}
+.check{
+	margin: 2px 150px 0px 0px;
+	float: left;
+	position: absolute;
+}
+.redc{
+	font-weight: 800;
+}
